@@ -11,7 +11,7 @@ Una idea semilla se transforma en un post con la voz de la marca a partir de una
 |---|---|
 | Base de datos (Airtable, solo lectura) | https://airtable.com/appuGAt5mttAnJTuz/shrJIW4dTcWIIEglV |
 | Dashboard de control (KPIs y tasa de error) | https://airtable.com/appuGAt5mttAnJTuz/shrNA7eyvJjHApYEc |
-| Video demo (3 min) | _(agregar enlace)_ |
+| Video demo (3 min) | https://youtu.be/wn55UhQMUNc |
 
 ## Stack
 
